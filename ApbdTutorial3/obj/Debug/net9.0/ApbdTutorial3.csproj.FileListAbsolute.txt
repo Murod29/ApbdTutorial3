@@ -1,0 +1,14 @@
+C:\Users\tojir\RiderProjects\ApbdTutorial3\ApbdTutorial3\bin\Debug\net9.0\ApbdTutorial3.exe
+C:\Users\tojir\RiderProjects\ApbdTutorial3\ApbdTutorial3\bin\Debug\net9.0\ApbdTutorial3.deps.json
+C:\Users\tojir\RiderProjects\ApbdTutorial3\ApbdTutorial3\bin\Debug\net9.0\ApbdTutorial3.runtimeconfig.json
+C:\Users\tojir\RiderProjects\ApbdTutorial3\ApbdTutorial3\bin\Debug\net9.0\ApbdTutorial3.dll
+C:\Users\tojir\RiderProjects\ApbdTutorial3\ApbdTutorial3\bin\Debug\net9.0\ApbdTutorial3.pdb
+C:\Users\tojir\RiderProjects\ApbdTutorial3\ApbdTutorial3\obj\Debug\net9.0\ApbdTutorial3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tojir\RiderProjects\ApbdTutorial3\ApbdTutorial3\obj\Debug\net9.0\ApbdTutorial3.AssemblyInfoInputs.cache
+C:\Users\tojir\RiderProjects\ApbdTutorial3\ApbdTutorial3\obj\Debug\net9.0\ApbdTutorial3.AssemblyInfo.cs
+C:\Users\tojir\RiderProjects\ApbdTutorial3\ApbdTutorial3\obj\Debug\net9.0\ApbdTutorial3.csproj.CoreCompileInputs.cache
+C:\Users\tojir\RiderProjects\ApbdTutorial3\ApbdTutorial3\obj\Debug\net9.0\ApbdTutorial3.dll
+C:\Users\tojir\RiderProjects\ApbdTutorial3\ApbdTutorial3\obj\Debug\net9.0\refint\ApbdTutorial3.dll
+C:\Users\tojir\RiderProjects\ApbdTutorial3\ApbdTutorial3\obj\Debug\net9.0\ApbdTutorial3.pdb
+C:\Users\tojir\RiderProjects\ApbdTutorial3\ApbdTutorial3\obj\Debug\net9.0\ApbdTutorial3.genruntimeconfig.cache
+C:\Users\tojir\RiderProjects\ApbdTutorial3\ApbdTutorial3\obj\Debug\net9.0\ref\ApbdTutorial3.dll
