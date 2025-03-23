@@ -19,7 +19,7 @@
 
         public void EmptyGas()
         {
-            CargoMass *= 0.95; // Always leave 5% of gas
+            CargoMass *= 0.95; // Always leaving  5% of gas
         }
     }
 }
