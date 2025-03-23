@@ -8,7 +8,7 @@ class Program
     {
         Console.WriteLine(" Welcome to the Container Ship Management System");
         
-        // Create a container ship
+        // Creating a container ship
         Console.Write("Enter the ship name: ");
         string shipName = Console.ReadLine();
 
